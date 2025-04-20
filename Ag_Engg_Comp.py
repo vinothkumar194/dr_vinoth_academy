@@ -43,7 +43,7 @@ st.markdown("""
         margin: 1rem 0;
     }
     .formula {
-        background-color: #f1f8e9;
+        background-color: #dcdcdc;
         padding: 1rem;
         border-radius: 5px;
         border-left: 5px solid #7cb342;
